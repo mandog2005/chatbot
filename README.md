@@ -16,3 +16,8 @@ enjoy!
 
 ************************
 
+please run main.py to talk to bot.
+
+You can also edit my code, intents.json has answer file for bot.
+
+Thanks!
